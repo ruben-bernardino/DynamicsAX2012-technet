@@ -70,7 +70,7 @@ By default, the URL of the Report Manager site is http://[SSRSServerName]:80/Rep
 
 When you configure a Reporting Services instance, a web service is created. Users cannot access reports unless this service is running.
 
-The URL of the web service is typically http://[SSRSServerName]:80/ReportServer. However, if you are using Reporting Services 2012 or 2014 in SharePoint integrated mode, the URL is typically http://[SharePointServerName]/_vti_bin/ReportServer or http:[SharePointServerName]/sites/[SiteName]/_vti_bin/ReportServer.
+The URL of the web service is typically http://[SSRSServerName]:80/ReportServer. However, if you are using Reporting Services 2012 or 2014 in SharePoint integrated mode, the URL is typically http://[SharePointServerName]/_vti_bin/ReportServer or http://[SharePointServerName]/sites/[SiteName]/_vti_bin/ReportServer.
 
 The following picture shows the web service for an instance of Reporting Services that is running in native mode.
 
